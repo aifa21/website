@@ -1,0 +1,113 @@
+body{
+    
+    font-family: 'Roboto', sans-serif;
+}
+.highlight{
+    color:rgb(238, 22, 130);
+    
+
+}
+h1{
+    font-size:40px;
+}
+.top{
+    background-image:url("image/header.png");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+   
+}
+section{
+    height:300px;
+    padding-bottom:150px;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding-left:1%;
+}
+.half-width img{
+    width:100%;
+}
+
+.link-button{
+    text-decoration:none;
+    background-image:linear-gradient(45deg,magenta,red);
+    padding:10px 20px;
+    border-radius:5px;
+    color:white;
+    font-weight:90%;
+}
+.biblio{
+    background-image:url("image/biography.png");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+   
+}
+.button1{
+    text-decoration:none;
+    background-image:linear-gradient(45deg,rgb(231, 110, 185),rgb(240, 3, 82));
+    padding:10px 20px;
+    border-radius:5px;
+    color:white;
+    font-weight:90%;
+}
+.latest-work
+{ 
+    background-image:url("image/latest.png");
+    background-repeat:no-repeat;
+    background-size:90% 90%;
+    
+    background-position:right top;
+}
+
+.half-width1 img{
+    float: left;
+   width: 30%;
+   padding-top: 50px;
+   padding-left: 10px;
+   padding-right: 10px;
+   
+}
+#wrapper {
+   
+    width: 760px;
+    height: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    }
+    .client{
+        background-image:url("image/footer.png");
+        background-repeat:no-repeat;
+        background-size:100% 100%;
+       
+    }
+    .lu{
+        text-indent: 50px;
+  text-align: justify;
+  padding: 10px 20px 10px 20px;
+  margin-right: 300px;
+  margin-left: 300px;
+    
+    }
+    .rectangle{
+        background-image:linear-gradient(45deg,rgb(231, 110, 185),rgb(240, 3, 82));
+        width: 600px;
+        height:100px;
+       color:white;
+       text-align:center;
+       align-items:center;
+       justify-content:center;
+       padding: 10px;
+       
+        margin: 20px;
+        margin-left: 200px;
+        
+        
+    
+    
+    }
+    footer{
+        text-align:center;
+        font-size:12px;
+    }
