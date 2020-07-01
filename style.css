@@ -1,5 +1,5 @@
 body{
-    
+    margin:0;
     font-family: 'Roboto', sans-serif;
 }
 .highlight{
@@ -107,6 +107,45 @@ section{
     
     
     }
+   
+.last{
+   
+    background-image:url("dream-bg.png");
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+    .container {
+        width: 50%;
+        background-color: #ddd;
+        margin-left:25%;
+        border-radius:2px;
+      }
+      .skill-main{
+          margin-top:10%;
+      }
+      .skill-main h1{
+          text-align:center;
+          color:rgb(9, 184, 117);
+      }
+      .skill-main h3{
+          margin-bottom:5px;
+          margin-left:25%;
+      }
+      .skill {
+        text-align: right;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        color: white;
+        border-radius:2px;
+      }
+      
+      .html {width: 90%; background-color: #164ad8;}
+      .css {width: 80%; background-color: #2196F3;}
+      .js {width: 65%; background-color: #f44336;}
+      .C {width: 75%; background-color: rgb(223, 21, 122);}
+
+
     footer{
         text-align:center;
         font-size:12px;
